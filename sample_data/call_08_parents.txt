@@ -1,0 +1,8 @@
+# Synthetic call. Hinglish.
+[00:00] Agent: Hello, main Riya, SkillPath Academy se. Aapne Python course ke baare mein poocha tha?
+[00:05] Customer: Haan ji. Main 12th ke baad gap year le raha hoon.
+[00:09] Agent: Accha. Aapko coding mein interest kaise aaya?
+[00:12] Customer: YouTube pe videos dekhta hoon. But fees ke liye papa se poochna padega.
+[00:17] Agent: Bilkul. Main brochure aur fee structure WhatsApp pe bhej deti hoon, aap family se discuss kar lijiye. Weekend pe follow up karun?
+[00:25] Customer: Haan, Sunday ko call kar lena.
+[00:28] Agent: Theek hai, Sunday ko call karti hoon. Thank you!

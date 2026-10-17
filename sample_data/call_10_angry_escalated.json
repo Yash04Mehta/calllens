@@ -1,0 +1,9 @@
+{"turns": [
+  {"speaker": "agent", "text": "Hello, this is Riya from SkillPath Academy. Is this Mr. Kapoor?", "start": 0},
+  {"speaker": "customer", "text": "Yes. I paid for my son's course two weeks ago and he still hasn't got the class link. This is ridiculous.", "start": 4},
+  {"speaker": "agent", "text": "I'm really sorry about that. Let me check. Could you tell me the registered phone number?", "start": 11},
+  {"speaker": "customer", "text": "Same number you called. I've emailed twice, nobody replies. Worst service.", "start": 16},
+  {"speaker": "agent", "text": "I understand you're frustrated. I can't see the payment on my screen, so I'm raising a ticket and asking my supervisor to call you within two hours.", "start": 21},
+  {"speaker": "customer", "text": "Two hours, fine. But if it's not solved today I want a refund.", "start": 30},
+  {"speaker": "agent", "text": "Noted. Ticket raised, my supervisor will call you today. Sorry again for the trouble.", "start": 35}
+]}

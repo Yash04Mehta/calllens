@@ -1,0 +1,12 @@
+# Synthetic call. Hinglish.
+[00:00] Agent: Namaste, main Riya bol rahi hoon SkillPath Academy se. Aapne data science course ke liye enquiry ki thi. Do minute baat kar sakte hain?
+[00:06] Customer: Haan boliye.
+[00:08] Agent: Aap abhi kya kar rahe hain, job ya studies?
+[00:11] Customer: Job karta hoon, BPO mein. Fees kitna hai course ka?
+[00:15] Agent: Full course 45,000 rupees ka hai, EMI option bhi hai.
+[00:19] Customer: Bahut mehenga hai yaar. Itna budget nahi hai abhi.
+[00:23] Agent: Samajh sakti hoon. EMI 4,000 per month se start hota hai. Main details WhatsApp pe bhej doon? Aap aaram se dekh lijiye.
+[00:31] Customer: Theek hai, bhej do. Main baad mein dekhta hoon.
+[00:34] Agent: Done, main abhi bhejti hoon. Kal call back karun?
+[00:37] Customer: Haan, kal shaam ko.
+[00:39] Agent: Theek hai, kal shaam ko call karti hoon. Dhanyavaad!

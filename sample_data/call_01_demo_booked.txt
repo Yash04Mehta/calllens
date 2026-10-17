@@ -1,0 +1,12 @@
+# Synthetic call. SkillPath Academy lead qualification.
+[00:00] Agent: Hi, this is Riya calling from SkillPath Academy. You filled an enquiry form for our Python course. Is this a good time to talk for two minutes?
+[00:07] Customer: Yes, sure, go ahead.
+[00:09] Agent: Great. May I know if you are a student or working right now?
+[00:13] Customer: I'm in my final year of BCom. I want to move into data analytics.
+[00:18] Agent: That's a common path. Have you done any coding before?
+[00:21] Customer: A little Excel, no real coding. Is the course okay for beginners?
+[00:26] Agent: Yes, it starts from zero. The first month is Python basics and the second is pandas and dashboards. We have a free demo class this Saturday at 11 AM. Would you like to attend?
+[00:36] Customer: Sounds good. Saturday works.
+[00:39] Agent: Perfect, your demo is scheduled for Saturday at 11 AM. I'll send the joining link on WhatsApp.
+[00:45] Customer: Great, thank you.
+[00:47] Agent: Thank you, see you on Saturday!

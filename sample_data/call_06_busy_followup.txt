@@ -1,0 +1,6 @@
+# Synthetic call.
+[00:00] Agent: Hi, this is Riya from SkillPath Academy. Is this Neha?
+[00:04] Customer: Yes, but I'm in a meeting right now.
+[00:06] Agent: No problem at all. Should I send the course details on WhatsApp and call you back later?
+[00:11] Customer: Yes, call back after 6 please.
+[00:13] Agent: Sure, I'll call you back after 6. Thank you, Neha.

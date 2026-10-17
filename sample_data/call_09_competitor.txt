@@ -1,0 +1,7 @@
+# Synthetic call.
+[00:00] Agent: Hi, this is Arjun from SkillPath Academy, calling about your interest in our UI/UX course.
+[00:05] Customer: Oh, I actually already enrolled in another course last week.
+[00:09] Agent: Congratulations! Which one, if you don't mind me asking?
+[00:12] Customer: A design course from a different institute. So I'm not interested now, thanks.
+[00:16] Agent: Understood. All the best with it. If you ever want an advanced module, feel free to reach out.
+[00:21] Customer: Sure, thanks.

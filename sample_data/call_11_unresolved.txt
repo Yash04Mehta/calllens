@@ -1,0 +1,10 @@
+# Synthetic call.
+[00:00] Agent: Hi, Arjun from SkillPath Academy. You'd enquired about our cloud course?
+[00:04] Customer: Yes. Does it cover AWS certification?
+[00:07] Agent: It covers cloud basics.
+[00:09] Customer: But does it prepare for the AWS exam specifically?
+[00:12] Agent: It covers a lot of cloud topics.
+[00:14] Customer: Okay. What's the duration?
+[00:16] Agent: I think three months. Or maybe four.
+[00:19] Customer: You don't seem sure. Okay, never mind.
+[00:22] Agent: Alright, any other questions?

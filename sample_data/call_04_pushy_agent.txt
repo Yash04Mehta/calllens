@@ -1,0 +1,9 @@
+# Synthetic call. Example of poor agent behaviour.
+[00:00] Agent: Hi, Arjun from SkillPath Academy. So our full-stack bootcamp is the best in India, we have 95 percent placement, top companies hire our students, the batch starts Monday and there are only three seats left so you really should book today because the price goes up next week and honestly this is the best decision you will make for your career, everybody who joined last year is earning well now, so shall I send the payment link?
+[00:28] Customer: Wait, I just wanted some
+[00:30] Agent: And the course also includes a free laptop bag and lifetime access to recordings. [interrupted]
+[00:34] Customer: Can I just ask what the timings are?
+[00:36] Agent: Timings are flexible, don't worry about that. Let me send the payment link now?
+[00:40] Customer: No, I need to ask my parents first. This is too much pressure.
+[00:44] Agent: But the seats will go, you should decide now. [interrupted]
+[00:47] Customer: I said I will think about it. Bye.

@@ -1,0 +1,9 @@
+# Synthetic call.
+[00:00] Agent: Good afternoon, this is Arjun from SkillPath Academy. You'd asked about our data analytics course. Is now a good time?
+[00:06] Customer: Okay. But honestly I've seen a lot of fake placement claims online. How do I know you're genuine?
+[00:13] Agent: That's a fair question. You can check our Google reviews, and in the free demo you can speak to two alumni directly and ask them anything.
+[00:22] Customer: Hmm. What happens in the demo?
+[00:25] Agent: It's a one-hour live class where you build a small dashboard, then fifteen minutes of Q&A with the alumni. No payment needed.
+[00:33] Customer: Okay, that sounds fair. Book me for Sunday.
+[00:36] Agent: Done, your slot is confirmed for Sunday 5 PM. You'll get a reminder on WhatsApp.
+[00:41] Customer: Thanks, that was helpful.

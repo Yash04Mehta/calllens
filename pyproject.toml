@@ -1,0 +1,9 @@
+[project]
+name = "calllens"
+version = "0.1.0"
+description = "AI quality analytics for voice-agent and sales calls"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

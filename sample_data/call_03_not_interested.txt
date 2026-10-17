@@ -1,0 +1,6 @@
+# Synthetic call.
+[00:00] Agent: Hello, this is Arjun from SkillPath Academy, calling about your enquiry for our web development bootcamp.
+[00:05] Customer: I didn't fill any form. Not interested.
+[00:08] Agent: Oh, sorry about that. It may have been filled from a college fair list. Would you like me to remove your number?
+[00:13] Customer: Yes please, remove my number.
+[00:15] Agent: Done, you won't get further calls from us. Have a good day.

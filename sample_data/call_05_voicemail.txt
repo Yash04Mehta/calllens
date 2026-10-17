@@ -1,0 +1,2 @@
+# Synthetic call.
+[00:00] Agent: Hi, this is Riya from SkillPath Academy calling about your enquiry. Sorry I missed you, I'll leave a message and try again tomorrow.

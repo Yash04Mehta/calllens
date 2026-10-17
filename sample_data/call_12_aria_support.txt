@@ -1,0 +1,10 @@
+# Synthetic call in the Aria voice-agent export format (AI agent for a skincare brand).
+[00:00] ARIA      Hi, this is Aria from Aura Skincare. How can I help you today?
+[00:05] CUSTOMER  Hi, I want to cancel my order 104.
+[00:08] TOOL      get_order_details(104) -> status: processing
+[00:09] ARIA      I can see order 104 for the Vitamin C serum is still processing, so it can be cancelled. Shall I go ahead?
+[00:15] CUSTOMER  Yes please.
+[00:16] TOOL      cancel_order(104) -> cancelled
+[00:17] ARIA      Done, order 104 has been cancelled. Is there anything else I can help you with?
+[00:22] CUSTOMER  No, that's all. Thanks!
+[00:24] ARIA      You're welcome, have a lovely day!
